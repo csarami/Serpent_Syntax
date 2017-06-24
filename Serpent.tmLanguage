@@ -26,6 +26,12 @@
 		</dict>
 		<dict>
 			<key>match</key>
+			<string>//.*</string>
+			<key>name</key>
+			<string>comment.single.line.sublime-settings</string>
+		ß</dict>
+		<dict>
+			<key>match</key>
 			<string>\b(?i:(0x\h*)L)</string>
 			<key>name</key>
 			<string>constant.numeric.integer.long.hexadecimal.srp</string>
